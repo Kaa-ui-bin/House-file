@@ -1,3 +1,1 @@
 # Hello, word!
-
-Test text
